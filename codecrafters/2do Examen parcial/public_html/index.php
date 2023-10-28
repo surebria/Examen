@@ -12,6 +12,6 @@
     <?php require 'header.html'; ?>
     
     <?php require 'vistas/inicio.html'; ?>
-    <?php require'footer.html'; ?>
+    <?php require 'footer.html'; ?>
 </body>
 </html>
